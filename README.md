@@ -1,7 +1,3 @@
-Claro! Aqui está o README estilizado utilizando Markdown, adequado para ser visualizado no GitHub:
-
----
-
 # Formulário de Cadastro com Bootstrap e jQuery
 
 Este projeto é uma página HTML simples que utiliza o Bootstrap para estilização e o jQuery para animações e validações de formulário. Ele apresenta um formulário de cadastro que inclui os campos de nome, e-mail e telefone, além de um botão de envio.
